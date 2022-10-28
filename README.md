@@ -12,4 +12,5 @@ Aqui consegui o certificado de "JavaScript Algorithms and Data Structures" no Fr
 ## Tecnologias usadas:
 <div style="display: inline_block"></br>
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div></br>
